@@ -1,2 +1,2 @@
-# mayconmesquita.com
-Static site for mayconmesquita.com
+# mayconmesquita.github.io
+Static site for mayconmesquita.github.io
